@@ -68,3 +68,19 @@ Acknowledgement
 
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
+
+
+***************
+Fullstack Developer TEST- Step 1
+***************
+
+Yap you can see in http://posbeck.online/boxbilling but its invalid license
+
+
+***************
+Fullstack Developer TEST- Step 2
+***************
+
+Yap you can see in view/index/index.php
+
+
